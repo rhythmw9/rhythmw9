@@ -43,5 +43,5 @@ Relevant Coursework: Embedded Systems, Digital Design, Optimization, ML, Deep Le
 
 ## Contact me
 
-- [LinkedIn](www.linkedin.com/in/rhythm-winicour-freeman-975b74289)
-- [Email](rwinicourfreeman@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rhythm-winicour-freeman-975b74289)
+- [Email](mailto:rwinicourfreeman@gmail.com)
