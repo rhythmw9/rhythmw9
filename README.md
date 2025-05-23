@@ -1,6 +1,6 @@
 # Rhythm Winicour-Freeman
 
-Electrical and Computer Engineering student at UCSB focused on Embedded Systems and Machine Learning. I'm passionate about intelligent systems, technical problem-solving, and cybersecurity.
+Electrical and computer engineering student at UCSB focused on embedded systems, machine learning, and software development. I'm passionate about intelligent systems, technical problem-solving, and cybersecurity.
 
 ---
 
