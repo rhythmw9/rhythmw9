@@ -1,15 +1,15 @@
 # Rhythm Winicour-Freeman
 
-Electrical and computer engineering student at UCSB focused on embedded systems, machine learning, and software development. I'm passionate about intelligent systems, technical problem-solving, and cybersecurity.
+Electrical and Computer Engineering student at UCSB focused on embedded systems, machine learning, and software development.
 
 ---
 
 ## Skills & Technologies
 
-- **Languages/Frameworks:** C, C++, Python, HTML, CSS, Bootstrap
-- **Embedded Systems:** STM32 register-level C programming, Keil uVision, SystemVerilog, GPIO, timers/interrupts, moters (stepper and servo), serial communication (UART, I2C, SPI, USB), ADC/DAC, parallel interfaces, memory subsystem, sampling/digital filtering
+- **Languages/Frameworks:** C, C++, Python, HTML, CSS, Bootstrap, JavaScript, React
+- **Embedded Systems:** STM32 (register-level C, Keil uVision), SystemVerilog, GPIO, timers, interrupts, motors (stepper/servo), UART, I2C, SPI, USB, ADC/DAC, memory subsystem, sampling/digital filtering
 - **ML/Data Science:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, OpenCV, CVXPY, Matplotlib
-- **Tools:** Git/Github, Vs Code, Jupyter, PowerShell, Linux/Ubuntu
+- **Tools:** Git/Github, VS Code, Jupyter Notebook, PowerShell, Linux/Ubuntu
 
 ---
 
@@ -26,9 +26,11 @@ Electrical and computer engineering student at UCSB focused on embedded systems,
 
 ## Projects
 
+- **Personal Portfolio Website** - A clean, modern personal portfolio website showcasing my projects, skills, and background
+- **GIF Explorer** - A fun and interactive web app that lets users search for and display GIFs using the Giphy API
 - **C Address Book Program** - Command-line interface program using linked lists and manual memory management
-- **SVM Breast Cancer Classifier** - Built and trained a simple support vector machine for medical diagnosis prediction
-- **Garage Door System** *(in progress)* – STM32 project integrating an accelerometer, stepper motor, thermal sensor, and Bluetooth module
+- **SVM Breast Cancer Classifier** - Trained a support vector machine model for binary classification of medical data
+- **Garage Door System** *(in progress)* – STM32-based embedded system using an accelerometer, stepper motor, temperature sensor, and Bluetooth module
 
 ---
 
@@ -36,7 +38,7 @@ Electrical and computer engineering student at UCSB focused on embedded systems,
 
 **University of California, Santa Barbara (UCSB)**  
 B.S. Electrical Engineering — Expected Graduation: June 2026  
-Track: Machine Learning  
+Track: Embedded Systems & Machine Learning
 Relevant Coursework: Embedded Systems, Digital Design, Optimization, ML, Deep Learning, Computer Architecture
 
 ---
