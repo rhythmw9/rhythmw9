@@ -6,11 +6,11 @@ Electrical and Computer Engineering student at UCSB focused on embedded systems,
 
 ## Skills & Technologies
 
-- **Programming Languages & Frameworks:** C, C++, Python, JavaScript, HTML, CSS, Bootstrap, React, Node.js, SQL, Express
-- **Embedded Systems:** STM32 (bare-metal C), QP-nano, MicroBlaze (C), RISC-V Assembly, SystemVerilog, timers, interrupts, UART/SPI/I2C/USB, ADC/DAC, motor control
-- **Machine Learning & Data Science:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, OpenCV, CVXPY, Matplotlib
-- **Tools & Environments:** Git/Github, VS Code, Jupyter Notebook, PowerShell, Linux/Ubuntu, Keil uVision, Vivado, Vitis, ROS2
-- **Hardware & Test Equipment:** Oscilloscope, Digital Multimeter, Function Generator, Power Supply, Breadboard Prototyping, Circuit Debugging
+- **Languages:** C, C++, Python, JavaScript, SystemVerilog, RISC-V Assembly, SQL, HTML/CSS
+- **Frameworks and Libraries:** Node.js, React, Bootstrap, ROS 2
+- **Embedded & Hardware:** STM32 (bare-metal C), Nexys A7 FPGA (MicroBlaze), I2C/SPI/UART, Raspberry Pi, TurtleBot 4
+- **Tools & Platforms:** Git/Github, Linux/Ubuntu, VS Code, Keil uVision, Vivado/Vitis
+- **Test & Measurement:** Digital multimeter, oscilloscope, function generator
 
 ---
 
