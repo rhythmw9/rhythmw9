@@ -18,9 +18,9 @@ Electrical and Computer Engineering student at UCSB focused on embedded systems,
 
 - **Embedded Systems:** Real-time systems, hardware/software integration, operating systems
 - **Computer Architecture:** Low-level design, performance optimization, systems programming
-- **Machine Learning:** Computer vision, deep learning, large language models
+- **Machine Learning:** Computer vision, large language models
 - **Cybersecurity:** Cryptography, applied security across hardware and software
-- **Software Development:** Full-stack applications, automation, SaaS architecture
+- **Software Development:** Full-stack applications, automation
 - **Applications:** Aerospace, defense, and medical technology
 
 
