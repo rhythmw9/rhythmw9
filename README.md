@@ -7,7 +7,7 @@ Electrical and Computer Engineering student at UCSB focused on embedded systems,
 ## Skills & Technologies
 
 - **Languages:** C, C++, Python, JavaScript, SystemVerilog, RISC-V Assembly, SQL, HTML/CSS
-- **Frameworks and Libraries:** Node.js, React, Bootstrap, ROS 2
+- **Frameworks and Libraries:** Node.js, React, Bootstrap, ROS 2, QP Nano
 - **Embedded & Hardware:** STM32 (bare-metal C), Nexys A7 FPGA (MicroBlaze), I2C/SPI/UART, Raspberry Pi, TurtleBot 4
 - **Tools & Platforms:** Git/Github, Linux/Ubuntu, VS Code, Keil uVision, Vivado/Vitis
 - **Test & Measurement:** Digital multimeter, oscilloscope, function generator
@@ -28,6 +28,7 @@ Electrical and Computer Engineering student at UCSB focused on embedded systems,
 
 ## Projects
 
+- **Chromatic Guitar Tuner** - A real-time chromatic tuner built on an FPGA using C, FFT-based signal processing, and a custom LCD user interface
 - **Personal Portfolio Website** - A clean, modern personal portfolio website showcasing my projects, skills, and background
 - **Task Manager Web App** - A responsive React application for creating, managing, and organizing tasks with filtering, search, and priority features.
 - **GIF Explorer** - A fun and interactive web app that lets users search for and display GIFs using the Giphy API
