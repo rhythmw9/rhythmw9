@@ -43,7 +43,7 @@ Electrical and Computer Engineering student at UCSB focused on embedded systems,
 
 **University of California, Santa Barbara (UCSB)**  
 B.S. Electrical Engineering — Expected Graduation: June 2026  
-Track: Embedded Systems & Machine Learning
+Track: Embedded Systems & Machine Learning     
 Relevant Coursework: Embedded Systems, Digital Design, Optimization, ML, Deep Learning, Computer Architecture
 
 ---
