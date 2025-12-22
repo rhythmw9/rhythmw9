@@ -29,11 +29,12 @@ Electrical and Computer Engineering student at UCSB focused on embedded systems,
 ## Projects
 
 - **Chromatic Guitar Tuner** - A real-time chromatic tuner built on an FPGA using C, FFT-based signal processing, and a custom LCD user interface
-- **Personal Portfolio Website** - A clean, modern personal portfolio website showcasing my projects, skills, and background
+- **SVM Breast Cancer Classifier** - Trained a support vector machine model for binary classification of medical data
 - **Task Manager Web App** - A responsive React application for creating, managing, and organizing tasks with filtering, search, and priority features.
+- **Personal Portfolio Website** - A clean, modern personal portfolio website showcasing my projects, skills, and background
 - **GIF Explorer** - A fun and interactive web app that lets users search for and display GIFs using the Giphy API
 - **C Address Book Program** - Command-line interface program using linked lists and manual memory management
-- **SVM Breast Cancer Classifier** - Trained a support vector machine model for binary classification of medical data
+
 
 
 ---
