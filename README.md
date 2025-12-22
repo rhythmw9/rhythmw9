@@ -32,7 +32,6 @@ Electrical and Computer Engineering student at UCSB focused on embedded systems,
 - **Personal Portfolio Website** - A clean, modern personal portfolio website showcasing my projects, skills, and background
 - **Task Manager Web App** - A responsive React application for creating, managing, and organizing tasks with filtering, search, and priority features.
 - **GIF Explorer** - A fun and interactive web app that lets users search for and display GIFs using the Giphy API
-- **Fairway Forum** - A full-stack React application for golfers to post questions, browse by category, and share answers with authentication and MySQL persistence.
 - **C Address Book Program** - Command-line interface program using linked lists and manual memory management
 - **SVM Breast Cancer Classifier** - Trained a support vector machine model for binary classification of medical data
 
