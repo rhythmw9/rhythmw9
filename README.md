@@ -6,7 +6,7 @@ Electrical and Computer Engineering student at UCSB focused on embedded systems,
 
 ## Skills & Technologies
 
-- **Languages:** C, C++, Python, JavaScript, SystemVerilog, RISC-V Assembly, SQL, HTML/CSS
+- **Languages:** C, Python, JavaScript, SystemVerilog, RISC-V Assembly, SQL, HTML/CSS
 - **Frameworks and Libraries:** Node.js, React, Bootstrap, ROS 2, QP Nano
 - **Embedded & Hardware:** STM32 (bare-metal C), Nexys A7 FPGA (MicroBlaze), I2C/SPI/UART, Raspberry Pi, TurtleBot 4
 - **Tools & Platforms:** Git/Github, Linux/Ubuntu, VS Code, Keil uVision, Vivado/Vitis
