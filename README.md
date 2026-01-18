@@ -28,6 +28,7 @@ Electrical and Computer Engineering student at UCSB focused on embedded systems,
 
 ## Projects
 
+- **Autonomous Mobile Robot with Vision** – Senior capstone project developing autonomous navigation and computer vision on a TurtleBot 4 using ROS 2, LiDAR, and depth sensing
 - **Chromatic Guitar Tuner** - A real-time chromatic tuner built on an FPGA using C, FFT-based signal processing, and a custom LCD user interface
 - **SVM Breast Cancer Classifier** - Trained a support vector machine model for binary classification of medical data
 - **Task Manager Web App** - A responsive React application for creating, managing, and organizing tasks with filtering, search, and priority features.
